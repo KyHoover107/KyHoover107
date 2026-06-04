@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hello, I'm Ky
+<a href="https://www.linkedin.com/in/ky-hoover-2ba700206"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**KyHoover107/KyHoover107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a professional with a keen interest in Cybersecurity and looking to turn complex problems into structured, actionable solutions.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Throughout the last year, I have developed a passion to learn Cybersecurity with a goal of entering the field. At this time, I am currently looking for an exciting entry-level cyber position.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Log Analysis & Threat Detection         | <a>Detection Lab</a>|
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-GCIH-FF0000?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-GSEC-0057A8?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-GFACT-1A7A4A?&style=for-the-badge" />
+</div>
+
+## Projects
