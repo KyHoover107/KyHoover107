@@ -11,7 +11,7 @@ Throughout the last year, I have developed a passion to learn Cybersecurity with
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Log Analysis & Threat Detection         | <a>Detection Lab</a>|
+| SIEM Log Analysis & Threat Detection         | <a href="https://github.com/KyHoover107/SIEM-Analysis-Lab/tree/main"> SIEM Analysis Lab </a>|
 
 ## Tools
 
@@ -34,4 +34,5 @@ Throughout the last year, I have developed a passion to learn Cybersecurity with
 <img src="https://img.shields.io/badge/-GFACT-1A7A4A?&style=for-the-badge" />
 </div>
 
-## Projects
+## Projects/Challenges
+- <a href="https://github.com/KyHoover107/SIEM-Analysis-Lab/tree/main"> SIEM Analysis Lab </a>
